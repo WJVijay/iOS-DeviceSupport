@@ -1,5 +1,0 @@
-*.yml linguist-language=objective-c
-*.html linguist-language=objective-c 
-*.js linguist-language=objective-c 
-*.xml linguist-language=objective-c
-*.css linguist-language=objective-c
